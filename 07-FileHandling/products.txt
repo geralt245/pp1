@@ -1,0 +1,8 @@
+cola
+milk
+water
+bread
+beer
+cereal
+yoghurt
+chips
